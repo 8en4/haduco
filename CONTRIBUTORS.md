@@ -26,6 +26,13 @@ Thank you to all the people who have contributed to this project!
                     <sub><b>Thomas Phil</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/8en4">
+                    <img src="https://avatars.githubusercontent.com/u/193055826?v=4" width="100;" alt="8en4"/>
+                    <br />
+                    <sub><b>8en4</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>

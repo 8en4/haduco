@@ -2,6 +2,38 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.11.0](https://github.com/stuartp44/haduco/compare/v1.10.0...v1.11.0) (2026-08-30)
+
+
+### Features
+
+* Add temperature sensor description for VLVCO2 ([f4786e8](https://github.com/stuartp44/haduco/commit/f4786e81fdeb01cc9d73478de1651a5ab575f9a6))
+
+
+### Documentation
+
+* update contributors [skip ci] ([b8516e9](https://github.com/stuartp44/haduco/commit/b8516e9a3a246576e7f2b75479b5decb7a19941a))
+
+
+### Code Refactoring
+
+* migrate to release-please for versioning and release management ([00b416c](https://github.com/stuartp44/haduco/commit/00b416c919b8cf6350858e00bd61e08c726c2e8b))
+* Migrate to release-please pure for versioning and release manage ([16423b2](https://github.com/stuartp44/haduco/commit/16423b23cd6acdbce8eb2b92011ded46216d7f2a))
+* restructure release-please configuration to include package… ([91e00b5](https://github.com/stuartp44/haduco/commit/91e00b51710bb772454b8bca25b3f2eccf49c589))
+* restructure release-please configuration to include packages section ([564b572](https://github.com/stuartp44/haduco/commit/564b572e2ca90a023b71cfe0a24d6f5fdf1ae561))
+
+
+### CI/CD
+
+* **deps:** bump actions/checkout from 6 to 7 ([d383eaf](https://github.com/stuartp44/haduco/commit/d383eaf3ea7c743a28da601bafd682f4ced323f8))
+* **deps:** bump actions/checkout from 6 to 7 ([6a551c6](https://github.com/stuartp44/haduco/commit/6a551c69958671640f19022a87f13b757e298092))
+* **deps:** bump actions/setup-node from 6 to 7 ([b9fd0a1](https://github.com/stuartp44/haduco/commit/b9fd0a1f359f0ae79053ee8bf39923f5a64a5f29))
+* **deps:** bump actions/setup-node from 6 to 7 ([db56cdd](https://github.com/stuartp44/haduco/commit/db56cddb87b45f7a3efc134929795980c5de25c0))
+* **deps:** bump actions/setup-python from 6 to 7 ([3553b6c](https://github.com/stuartp44/haduco/commit/3553b6c58b30d1349275e120e5d20cc844f63306))
+* **deps:** bump actions/setup-python from 6 to 7 ([54ed2f3](https://github.com/stuartp44/haduco/commit/54ed2f3c66474319084760b16f0d718498e73055))
+* **deps:** bump actions/stale from 10 to 11 ([864f81c](https://github.com/stuartp44/haduco/commit/864f81ca71c1d4020b4da54ab22893aea2e59e97))
+* **deps:** bump actions/stale from 10 to 11 ([e91eabc](https://github.com/stuartp44/haduco/commit/e91eabc54417c663cd601204c8f15c9f01f9a80a))
+
 ## [1.10.0](https://github.com/stuartp44/haduco/compare/v1.9.0...v1.10.0) (2026-06-07)
 
 

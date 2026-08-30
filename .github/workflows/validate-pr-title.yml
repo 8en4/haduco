@@ -12,9 +12,7 @@ permissions:
 
 jobs:
   validate-title:
-    if: >-
-      github.actor != 'dependabot[bot]' &&
-      github.head_ref != 'release-please--branches--main'
+    if: github.actor != 'dependabot[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Validate PR title
@@ -35,11 +33,6 @@ jobs:
             chore
             revert
           requireScope: false
-          subjectPattern: ^[A-Z].+$
-          subjectPatternError: |
-            The subject "{subject}" found in the pull request title "{title}"
-            didn't match the configured pattern. Please ensure that the subject
-            starts with an uppercase character.
           wip: false
           validateSingleCommit: false
           validateSingleCommitMatchesPrTitle: false

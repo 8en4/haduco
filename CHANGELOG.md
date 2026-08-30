@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.11.1](https://github.com/stuartp44/haduco/compare/v1.11.0...v1.11.1) (2026-08-30)
+
+
+### Bug Fixes
+
+* simplify PR title validation conditions and remove subject pattern check ([8cf6ec9](https://github.com/stuartp44/haduco/commit/8cf6ec9ce21699ede4062fcda3bd137159632ce6))
+* update PR title validation to exclude release-please branches ([7955c61](https://github.com/stuartp44/haduco/commit/7955c613ebebcb60c0053e45c6f67e86606a0b83))
+* update PR title validation to exclude release-please branches ([552060b](https://github.com/stuartp44/haduco/commit/552060b186e014e6c619e101deba24f4db0fd4d1))
+
 ## [1.11.0](https://github.com/stuartp44/haduco/compare/v1.10.0...v1.11.0) (2026-08-30)
 
 
